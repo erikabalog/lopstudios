@@ -1,0 +1,112 @@
+[33mcommit 8b28552fe12382d36b6be013f9810014e021f492[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 21:11:30 2024 +0100
+
+    Added comments to the code
+
+[33mcommit ed275e8f500cfa702e60f00d5b9c892962011eec[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 19:43:25 2024 +0100
+
+    Initial commit
+
+[33mcommit 1b8c9f83da3db7073d0fa5b431c6b93b8fc2cc2c[m
+Merge: 0db7a2e c4b8275
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 19:04:40 2024 +0100
+
+    Resolved remaining merge conflicts
+
+[33mcommit 0db7a2efc7b82bc645ec8d3ff202924a8341f80e[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 19:01:44 2024 +0100
+
+    Initial commit
+
+[33mcommit c4b8275c689e5dafdffe9b90d9d6f4182b5e4d3d[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 18:44:27 2024 +0100
+
+    Added a new code line
+
+[33mcommit 5f0f9eb52a0d02af9ce3f3ed18dcd219449ce78b[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 18:22:18 2024 +0100
+
+    Deleted extra file
+
+[33mcommit 3475b47ff72672ca5c6c4005d240df7e663dd5d8[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 18:14:08 2024 +0100
+
+    Fix line endings
+
+[33mcommit 9cbdcaefc1a594159fcbfdfebce397b5e2fe6fc9[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 14:51:21 2024 +0100
+
+    Add loopstudios directory
+
+[33mcommit 128c0281d4064e2680af96e111fc5fa4ae13a52b[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 14:38:58 2024 +0100
+
+    Commit message
+
+[33mcommit 728effb45d0a18c6954ea5cd3c7203e04c1b44ef[m
+Merge: ce4022e 2190255
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 14:21:59 2024 +0100
+
+    Merge branch 'main' of github.com:erikabalog/simple-tailwind-starter
+
+[33mcommit ce4022e0d62876b7291adc4c7ed336b0ea104177[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 14:15:18 2024 +0100
+
+    Project done
+
+[33mcommit 219025522b250fe1797e811b2d862532af220405[m
+Author: Erika Balog <enbalog@gmail.com>
+Date:   Sun Jan 7 13:22:07 2024 +0100
+
+    Project done
+
+[33mcommit 0c82b0b88dde88c6c300bad9db09d49b93e0a195[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Tue Oct 10 09:50:05 2023 -0400
+
+    Update readme.md
+
+[33mcommit f9735cd21744614760c40013f89407849cf1e64d[m
+Merge: bf3d9ea b86a89a
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Tue Oct 10 09:49:10 2023 -0400
+
+    Merge pull request #1 from MimisK13/main
+    
+    Bump TailwindCSS version
+
+[33mcommit b86a89a9e0218c5fe0ba0e546ec97ba1f09e8666[m
+Author: MimisK13 <mimisk88@gmail.com>
+Date:   Tue Mar 7 03:30:05 2023 +0200
+
+    Bump TailwindCSS version
+
+[33mcommit bf3d9ea3268b13a24615734d445a2163b84f80b9[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Wed Apr 27 18:16:23 2022 -0400
+
+    Update readme.md
+
+[33mcommit 25572573eb4eecb0e37e3f71eb75233de0459ef0[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Wed Apr 27 18:03:03 2022 -0400
+
+    Delete css directory
+
+[33mcommit f13f218338421301b297e55e64210436d21d10e6[m
+Author: Brad Traversy <traversymedia@gmail.com>
+Date:   Wed Apr 27 18:01:51 2022 -0400
+
+    Initial commit
